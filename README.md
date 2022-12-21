@@ -19,3 +19,7 @@ version:1.0
     - [ ] delete
 - /WanXiangObject
     - [ ] post
+
+### exmple
+
+    http://wanxiang.api.weixitianli.com/api/objects
